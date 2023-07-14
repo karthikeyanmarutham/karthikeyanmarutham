@@ -4,7 +4,7 @@
 **karthikeyanmarutham/karthikeyanmarutham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer at [Al maghaweer stables](https://almaghaweer.ae/) in UAE
+I'm karthikeyan maruthachalam, software engineer at [Al maghaweer stables](https://almaghaweer.ae/) in UAE
 
 - 🔭 I’m currently working on [Mindari](https://mindari.ae/)
 - 🌱 I’m currently learning German Language
