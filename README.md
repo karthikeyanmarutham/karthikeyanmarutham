@@ -34,5 +34,5 @@ Hello, my name is [Karthikeyan Maruthachalam](https://www.linkedin.com/in/karthi
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="22" height="22"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanmarutham&layout=compact&hide=html" alt="abuanwar072" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanmarutham&layout=compact&hide=html" alt="karthikeyan maruthachalam" /></p>
 
