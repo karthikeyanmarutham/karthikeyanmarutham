@@ -6,7 +6,7 @@
 
 Hello, my name is [Karthikeyan Maruthachalam](https://www.linkedin.com/in/karthikeyan-maruthachalam-67a445136/)
 
-- Senior software engineer with 9+ years of experience.
+- Senior software engineer with 10 years of experience.
 - Proficient in Swift, Objective-C, C# and Dart programming languages.
 - Passionate about creating innovative and user-friendly solutions.
 - Worked on projects ranging from mobile apps, web services and desktop applications.
